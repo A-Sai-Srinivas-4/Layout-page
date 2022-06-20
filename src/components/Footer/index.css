@@ -1,0 +1,12 @@
+.footer-container {
+  background-color: #cbd5e1;
+  width: 100%;
+  text-align: center;
+  margin: 10px;
+}
+.footer {
+  font-family: 'Roboto';
+  font-size: 50px;
+  font-weight: 600;
+  color: #475569;
+}

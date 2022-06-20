@@ -1,0 +1,50 @@
+.body-container {
+  display: flex;
+  width: 100%;
+  min-height: 400px;
+  margin: 10px;
+}
+.content-container {
+  background-color: #e2e8f0;
+  height: 500px;
+  padding: 30px;
+  width: 100%;
+  font-family: 'Roboto';
+  padding: 30px;
+}
+.content-heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.description {
+  font-size: 18px;
+  line-height: 30px;
+}
+.nav {
+  background-color: #cbd5e1;
+  padding: 20px;
+  width: 40%;
+}
+.nav-heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #475569;
+}
+.item-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+.item {
+  font-family: 'Roboto';
+  font-size: 18px;
+  margin: 20px;
+  font-weight: 500;
+  color: #64748b;
+}
+.ad-item {
+  width: 80%;
+  padding: 50px;
+  text-align: center;
+  border: 1px solid #64748b;
+  margin: 10px;
+}
